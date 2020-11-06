@@ -17,7 +17,11 @@
   },
   "cordova": {
     "plugins": {
-      "cordova-plugin-whitelist": {}
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-splashscreen": {}
     }
+  },
+  "dependencies": {
+    "cordova-plugin-splashscreen": "6.0.0"
   }
 }
