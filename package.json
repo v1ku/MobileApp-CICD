@@ -21,10 +21,12 @@
       "cordova-plugin-splashscreen": {}
     },
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ]
   },
   "dependencies": {
+    "cordova-ios": "6.1.1",
     "cordova-plugin-splashscreen": "6.0.0"
   }
 }
