@@ -7,3 +7,5 @@ node_modules/
 /plugins/
 /node_modules/
 /platforms/
+
+mobilecicd.keystore
