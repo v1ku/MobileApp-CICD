@@ -9,3 +9,6 @@ node_modules/
 /platforms/
 
 mobilecicd.keystore
+mobilecicd-final.apk
+mobilecicd.apk
+zipalign.exe
